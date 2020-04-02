@@ -4,5 +4,5 @@ The Butterworth filter is a type of signal processing filter designed to have a 
 
 # TYPES
 
-There are two types of butterworth filters namely low pass butterworth filter and hugh pass butterworth filter.
+There are two types of butterworth filters namely low pass butterworth filter and high pass butterworth filter.
 
